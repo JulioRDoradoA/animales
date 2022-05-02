@@ -7,28 +7,24 @@ chai.use(spies);
 const lista = {
   animales: [
     {
-      nombre: "Pitbull",
+      nombre: "Pichicho",
       tipo: "Perro",
     },
     {
-      nombre: "Golden retriever",
+      nombre: "Firulais",
       tipo: "Perro",
     },
     {
-      nombre: "Bulldog",
-      tipo: "Perro",
-    },
-    {
-      nombre: "Siames",
+      nombre: "Varela",
       tipo: "Gato",
     },
     {
-      nombre: "Persa",
+      nombre: "Pepinito",
       tipo: "Gato",
     },
     {
-      nombre: "Esfinge",
-      tipo: "Gato",
+      nombre: "Manuelita",
+      tipo: "Tortuga",
     },
   ],
   Perros: function () {
