@@ -11,12 +11,12 @@ const lista = {
       tipo: "Perro",
     },
     {
-      nombre: "Firulais",
-      tipo: "Perro",
-    },
-    {
       nombre: "Varela",
       tipo: "Gato",
+    },
+    {
+      nombre: "Firulais",
+      tipo: "Perro",
     },
     {
       nombre: "Pepinito",
