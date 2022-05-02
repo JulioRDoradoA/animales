@@ -11,6 +11,8 @@ describe('Lista de animales', () => {
     })
   })
 
+  dfdf
+
   describe('#gatos', () => {
     it('devuelve los animales que son gatos', () => {
       expect(lista.gatos()).to.equal(gatos)
